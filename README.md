@@ -1,4 +1,3 @@
- ```
 # News App
 
 This is a simple news app that allows users to read the latest news from a variety of sources. The app is built using the following technologies:
@@ -6,20 +5,16 @@ This is a simple news app that allows users to read the latest news from a varie
 * React
 * Next.js
 * Tailwind CSS
-* Vercel
-
+  
 ## Getting Started
 
 To get started, clone the repository and install the dependencies:
 
-```
 git clone https://github.com/samanyubrao/newsapp.git
 cd newsapp
 npm install
-```
 
 Once the dependencies are installed, you can start the development server:
-
 ```
 npm run dev
 ```
@@ -47,4 +42,3 @@ If you would like to contribute to the news app, please fork the repository and 
 ## License
 
 The news app is licensed under the MIT license.
-```
