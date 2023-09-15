@@ -5,6 +5,7 @@ This is a simple news app that allows users to read the latest news from a varie
 * React
 * Next.js
 * Tailwind CSS
+* News API
   
 ## Getting Started
 
